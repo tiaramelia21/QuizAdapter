@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapter-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_student_menu.xml",
+        "source": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapter-master\\app\\src\\main\\res\\menu\\edit_student_menu.xml"
+    },
+    {
+        "merged": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapter-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\student_menu.xml",
+        "source": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapter-master\\app\\src\\main\\res\\menu\\student_menu.xml"
+    },
+    {
+        "merged": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapterDb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\student_menu.xml",
+        "source": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapterDb\\app\\src\\main\\res\\menu\\student_menu.xml"
+    },
+    {
+        "merged": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapterDb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_student_menu.xml",
+        "source": "D:\\Tiara Amelia\\105\\Mobile Computing\\QuizAdapterDb\\app\\src\\main\\res\\menu\\edit_student_menu.xml"
+    }
+]
